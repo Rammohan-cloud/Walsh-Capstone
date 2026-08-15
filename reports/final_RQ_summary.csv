@@ -1,0 +1,5 @@
+RQ,Variable,H0,Coefficient,p-value,Decision,Feature,Mean_Absolute_SHAP
+RQ1,SmartCity,No significant relationship with PM2.5,-6.605889293932845,0.05838377628823476,Fail to Reject H0,SmartCity,0.33613238
+RQ2,EV,No significant relationship with PM2.5,0.00022829320020931873,0.0069717567280378505,Reject H0,EV,3.2688892
+RQ3,GreenCover,No significant relationship with PM2.5,-0.01370398627864961,9.094966640507752e-14,Reject H0,GreenCover,6.08781
+RQ4,PopulationDensity,No significant relationship with PM2.5,0.005026737320055773,0.7731185125783042,Fail to Reject H0,PopulationDensity,3.0428035
